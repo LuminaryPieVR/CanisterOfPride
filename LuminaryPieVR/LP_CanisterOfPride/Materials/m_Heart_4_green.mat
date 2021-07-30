@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: m_Heart_1_red
+  m_Name: m_Heart_4_green
   m_Shader: {fileID: 4800000, guid: d0b869b4893895747ae646ad17cbfab5, type: 3}
-  m_ShaderKeywords: VIGNETTE_MASKED _ALPHAPREMULTIPLY_ON
+  m_ShaderKeywords: VIGNETTE_MASKED _ALPHAPREMULTIPLY_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
   m_LightmapFlags: 6
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
@@ -679,7 +679,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 1
     - _GlossyReflections: 1
-    - _H: 0
+    - _H: 120
     - _IgnoreFog: 0
     - _Inverse_Clipping: 0
     - _InvertSmoothness: 0
