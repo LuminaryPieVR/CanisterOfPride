@@ -11,5 +11,5 @@ Please import these before importing LP_CanisterOfPride.unitypackage.
     https://github.com/poiyomi/PoiyomiToonShader
 
 Thank You,
-LuminaryPieVR
+LuminaryPie
 

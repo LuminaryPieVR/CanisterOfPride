@@ -8,8 +8,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: m_Heart_1_red
-  m_Shader: {fileID: 4800000, guid: d0b869b4893895747ae646ad17cbfab5, type: 3}
-  m_ShaderKeywords: VIGNETTE_MASKED _ALPHAPREMULTIPLY_ON
+  m_Shader: {fileID: 4800000, guid: de23d4d4fdb55b745a097062bf6894d9, type: 3}
+  m_ShaderKeywords: VIGNETTE_MASKED _ALPHAPREMULTIPLY_ON _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
   m_LightmapFlags: 6
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0

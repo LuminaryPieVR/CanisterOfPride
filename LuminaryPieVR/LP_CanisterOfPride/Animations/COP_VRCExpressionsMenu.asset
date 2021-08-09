@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
-  m_Name: LP_VRCExpressionsMenu
+  m_Name: COP_VRCExpressionsMenu
   m_EditorClassIdentifier: 
   controls:
   - name: Canister
@@ -28,6 +28,16 @@ MonoBehaviour:
     type: 102
     parameter:
       name: ParticlesToggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Poster
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: PosterToggle
     value: 1
     style: 0
     subMenu: {fileID: 0}
