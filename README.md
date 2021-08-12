@@ -1,6 +1,8 @@
 # CanisterOfPride
 VRChat avatar accessory - Hand held glass container with rainbow colored end caps and particle stream inside.
 
+(Canister Pic)[https://github.com/LuminaryPieVR/CanisterOfPride/blob/main/Images/COP_Canister_Poster.png]
+
 This asset requires two other free assets to operate as shown in CanisterOfPride_image.png.
 Please import these before importing LP_CanisterOfPride.unitypackage.
 
