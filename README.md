@@ -13,7 +13,8 @@ Please import these before importing LP_CanisterOfPride.unitypackage.
     Poiyomi Shader was used to add glitter to the end caps of the canister.
 
 
-Plesae see the Wiki page for more Instructions.
+Please see the Wiki page for more Instructions.
+
 https://github.com/LuminaryPieVR/CanisterOfPride/wiki
 
 Thank You,
