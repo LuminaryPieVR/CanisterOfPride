@@ -16,9 +16,8 @@ Please import these before importing LP_CanisterOfPride.unitypackage.
 Please see the Wiki page for more Instructions.  
 https://github.com/LuminaryPieVR/CanisterOfPride/wiki
 
-Thank You,
-LuminaryPie
-
+Thank You,  
+LuminaryPie  
 Email   LuminaryPieVR@gmail.com  
 Twitter @LuminaryPieVR  
 Discord LuminaryPie#7091  
