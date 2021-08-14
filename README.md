@@ -18,6 +18,7 @@ https://github.com/LuminaryPieVR/CanisterOfPride/wiki
 
 Thank You,
 LuminaryPie
-Email   LuminaryPieVR@gmail.com
-Twitter @LuminaryPieVR
-Discord LuminaryPie#7091
+
+Email   LuminaryPieVR@gmail.com  
+Twitter @LuminaryPieVR  
+Discord LuminaryPie#7091  
